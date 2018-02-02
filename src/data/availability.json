@@ -1,5 +1,4 @@
 {
-	"id": 1,
-	"availability": 0,
+	"meetingRoomStatus": 0,
 	"pick": [0,1,2,3,4,5]
 }
